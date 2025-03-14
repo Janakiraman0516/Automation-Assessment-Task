@@ -1,7 +1,7 @@
 # Automation-Assessment-Task
 ### **Files in the Repository:**
 
-1. **LoginPage.java** (Page Object Model class for Login page):
+**LoginPage.java** (Page Object Model class for Login page):
    ```java
    package com.automation.pages;
 
@@ -45,7 +45,7 @@
        }
    }
 
-2. **SignUpPage.java** (Page Object Model class for Sign-up page):
+ **SignUpPage.java** (Page Object Model class for Sign-up page):
    ```java
    package com.automation.pages;
 
@@ -94,7 +94,7 @@
        }
    }
 
-3. **LoginTest.java** (Test class using JUnit and Selenium):
+ **LoginTest.java** (Test class using JUnit and Selenium):
    ```java
    package com.automation.tests;
 
@@ -142,7 +142,7 @@
        }
    }
 
-4. **SignUpTest.java** (Test class using JUnit and Selenium):
+**SignUpTest.java** (Test class using JUnit and Selenium):
    ```java
    package com.automation.tests;
 
@@ -191,7 +191,7 @@
        }
    }
 
-5. **pom.xml** (For Maven Project - Dependency management):
+ **pom.xml** (For Maven Project - Dependency management):
    ```xml
    <dependencies>
        <!-- Selenium -->
